@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Paladin Pal
+## Notes: Helps you keep the right Seal up.
+## Author: Dangle725
+## Version: 0.1.0
+## SavedVariables: PaladinPalDB
+
+# Interface 16001 comes from community Forever guides. Confirm it in-game with
+# /dump select(4, GetBuildInfo()) and update the line above if it differs.
+
+Core.lua
+Seals.lua
+UI.lua
