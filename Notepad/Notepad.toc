@@ -1,0 +1,8 @@
+## Interface: 11509
+## Title: Notepad
+## Notes: A simple in-game notepad with multiple pages. /notepad or /np
+## Author: Fejus
+## Version: 1.0.0
+## SavedVariables: NotepadDB
+
+Notepad.lua
